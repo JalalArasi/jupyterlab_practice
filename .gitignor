@@ -1,0 +1,3 @@
+**/*.log            # Ignore all .log files in any directory
+.DS_Store           # Ignore .DS_Store files (macOS system files)
+.ipynb_checkpoints/ # Ignore .ipynb_checkpoints directory and its contents
